@@ -134,4 +134,4 @@ This project is open source and available under the MIT License.
 Feel free to fork this repository and submit pull requests for any improvements or bug fixes.
 
 ## Author
-Mohamed Taha Khattab - mohamed.taha.khattab0@gmail.com
+**Mohamed Taha Khattab** - mohamed.taha.khattab0@gmail.com
